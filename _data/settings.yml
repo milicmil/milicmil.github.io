@@ -256,7 +256,7 @@ testimonial-items:
 
 
 #-------------------------------
- Client Slider Section
+# Client Slider Section
 
 client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
