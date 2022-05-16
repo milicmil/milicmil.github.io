@@ -1,38 +1,30 @@
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
 
-  <title>{{ site.title }}</title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{%if page.description%}{{page.description}}{%else%}{{site.data.settings.description}}{%endif%}">
+    
+  {% if site.author %}
+  <meta name="author" content="{{ . }}">
+  {% endif %}
   
-  <!-- Font Awesome -->
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/fontawesome-all.min.css">
+  <!-- ** Plugins Needed for the Project ** -->
+  {% for css in site.data.plugins.css %}
+  <link rel="stylesheet" href="{{ css | relative_url }}">
+  {% endfor %}
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon.ico" | relative_url }}">
+  <!-- Main Stylesheet -->
+  <link href="{{ '/assets/scss/style.css' | relative_url }}" rel="stylesheet">
 
-  <!-- Google Analytics -->
-  {% if site.google_analytics %}
-  <script>
-      (function(i, s, o, g, r, a, m) {
-          i['GoogleAnalyticsObject'] = r;
-          i[r] = i[r] || function() {
-              (i[r].q = i[r].q || []).push(arguments)
-          }, i[r].l = 1 * new Date();
-          a = s.createElement(o),
-              m = s.getElementsByTagName(o)[0];
-          a.async = 1;
-          a.src = g;
-          m.parentNode.insertBefore(a, m)
-      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  <!--Favicon-->
+  <link rel="shortcut icon" href="{{ '/assets/images/favicon.png' | relative_url }} " type="image/x-icon">
+  <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }} " type="image/x-icon">
 
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-
-  </script>
+  <!-- google analytics -->
+  {% if site.data.settings.google-analytics %}
+    {% include google-analytics.html %}
   {% endif %}
 
 </head>
