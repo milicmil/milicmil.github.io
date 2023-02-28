@@ -1,12 +1,12 @@
 {
   "search_metadata": {
-    "id": "6337b39ba4be1079a4304ca1",
+    "id": "63fe1e895c560656de881354",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/4f10f6104b41effb/6337b39ba4be1079a4304ca1.json",
-    "created_at": "2022-10-01 03:27:23 UTC",
-    "processed_at": "2022-10-01 03:27:23 UTC",
+    "json_endpoint": "https://serpapi.com/searches/4f10f6104b41effb/63fe1e895c560656de881354.json",
+    "created_at": "2023-02-28 15:32:25 UTC",
+    "processed_at": "2023-02-28 15:32:25 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=L75YFRkAAAAJ&hl=en&pagesize=200&sortby=pubdate",
-    "raw_html_file": "https://serpapi.com/searches/4f10f6104b41effb/6337b39ba4be1079a4304ca1.html",
+    "raw_html_file": "https://serpapi.com/searches/4f10f6104b41effb/63fe1e895c560656de881354.html",
     "total_time_taken": 0.47
   },
   "search_parameters": {
@@ -23,19 +23,120 @@
     "website": "http://www.felskylab.com/",
     "interests": [
       {
-        "title": "Genomics",
-        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:genomics",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agenomics"
+        "title": "Neuroimaging-genomics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuroimaging_genomics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuroimaging_genomics"
       },
       {
         "title": "Alzheimer's disease",
         "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:alzheimer%27s_disease",
         "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aalzheimer%2527s_disease"
+      },
+      {
+        "title": "Biostatistics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biostatistics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiostatistics"
+      },
+      {
+        "title": "Gene-environment interaction",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:gene_environment_interaction",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agene_environment_interaction"
+      },
+      {
+        "title": "Youth mental health",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:youth_mental_health",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ayouth_mental_health"
       }
     ],
-    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=L75YFRkAAAAJ&citpid=4"
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=L75YFRkAAAAJ&citpid=6"
   },
   "articles": [
+    {
+      "title": "Robust differences in cortical cell type proportions across healthy human aging inferred through cross-dataset transcriptome analyses",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:UxriW0iASnsC",
+      "citation_id": "L75YFRkAAAAJ:UxriW0iASnsC",
+      "authors": "Y Chen, E Hunter, K Arbabi, A Guet-McCreight, M Consens, D Felsky, ...",
+      "publication": "Neurobiology of Aging, 2023",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "The Caribbean-Hispanic Alzheimer's disease brain transcriptome reveals ancestry-specific disease mechanisms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:KxtntwgDAa4C",
+      "citation_id": "L75YFRkAAAAJ:KxtntwgDAa4C",
+      "authors": "D Felsky, I Santa-Maria, MI Cosacak, L French, JA Schneider, DA Bennett, ...",
+      "publication": "Neurobiology of Disease 176, 105938, 2023",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Association analyses of the autosomal genome and mitochondrial DNA with accelerometry-derived sleep parameters in depressed UK biobank subjects",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:1sJd4Hv_s6UC",
+      "citation_id": "L75YFRkAAAAJ:1sJd4Hv_s6UC",
+      "authors": "LMM Beaupre, M Wainberg, CC Zai, M Milic, D Felsky, G Brown, ...",
+      "publication": "Journal of Psychiatric Research 157, 152-161, 2023",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Symptom dimensions of major depression in a large community-based cohort",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:vV6vV6tmYwMC",
+      "citation_id": "L75YFRkAAAAJ:vV6vV6tmYwMC",
+      "authors": "M Wainberg, P Zhukovsky, SL Hill, D Felsky, A Voineskos, S Kennedy, ...",
+      "publication": "Psychological Medicine 53 (2), 438-445, 2023",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1669464286938201081",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1669464286938201081&engine=google_scholar&hl=en",
+        "cites_id": "1669464286938201081"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Sex-specific associations between lifetime diagnosis of bipolar disorder and cardiovascular disease: A cross-sectional analysis of 257,673 participants from the UK Biobank",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:f2IySw72cVMC",
+      "citation_id": "L75YFRkAAAAJ:f2IySw72cVMC",
+      "authors": "A Ortiz, M Sanches, M Abdelhack, TR Schwaiger, M Wainberg, ...",
+      "publication": "Journal of Affective Disorders 319, 663-669, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Multi‐omics integration via similarity network fusion to detect subtypes of aging",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:abG-DnoFyZgC",
+      "citation_id": "L75YFRkAAAAJ:abG-DnoFyZgC",
+      "authors": "M Yang, SA Matan‐Lithwick, Y Wang, PL De Jager, DA Bennett, D Felsky",
+      "publication": "Alzheimer's & Dementia 18, e069431, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "A transcriptomic signature of late‐life depression",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:EUQCXRtRnyEC",
+      "citation_id": "L75YFRkAAAAJ:EUQCXRtRnyEC",
+      "authors": "SA Matan‐Lithwick, DA Bennett, Y Wang, S Tripathy, D Felsky",
+      "publication": "Alzheimer's & Dementia 18, e069357, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
     {
       "title": "Self-reported mental health during the COVID-19 pandemic and its association with alcohol and cannabis use: a latent class analysis",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:SeFeTyx0c_EC",
@@ -43,7 +144,7 @@
       "authors": "NH Somé, S Wells, D Felsky, HA Hamilton, S Ali, T Elton-Marshall, ...",
       "publication": "BMC psychiatry 22 (1), 1-13, 2022",
       "cited_by": {
-        "value": 2,
+        "value": 5,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8621071713193874464",
         "serpapi_link": "https://serpapi.com/search.json?cites=8621071713193874464&engine=google_scholar&hl=en",
         "cites_id": "8621071713193874464"
@@ -51,11 +152,11 @@
       "year": "2022"
     },
     {
-      "title": "Sex-specific associations between lifetime diagnosis of bipolar disorder and cardiovascular disease: A cross-sectional analysis of 257,673 participants from the UK Biobank",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:f2IySw72cVMC",
-      "citation_id": "L75YFRkAAAAJ:f2IySw72cVMC",
-      "authors": "A Ortiz, M Sanches, M Abdelhack, TR Schwaiger, M Wainberg, ...",
-      "publication": "Journal of Affective Disorders, 2022",
+      "title": "Rapid iPSC inclusionopathy models shed light on formation, consequence and molecular subtype of α-synuclein inclusions",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:CHSYGLWDkRkC",
+      "citation_id": "L75YFRkAAAAJ:CHSYGLWDkRkC",
+      "authors": "I Lam, A Ndayisaba, AJ Lewis, YH Fu, GT Sagredo, L Zaccagnini, ...",
+      "publication": "bioRxiv, 2022.11. 08.515615, 2022",
       "cited_by": {
         "value": null,
         "link": "https://scholar.google.com"
@@ -63,10 +164,11 @@
       "year": "2022"
     },
     {
-      "title": "CHRNA5 links chandelier cells to protection against amyloid pathology in human aging and Alzheimer's Disease",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:bFI3QPDXJZMC",
-      "citation_id": "L75YFRkAAAAJ:bFI3QPDXJZMC",
-      "authors": "J Rybnicek, Y Chen, M Millic, JA McLaurin, P De Jager, J Schneider, ...",
+      "title": "CASE-CONTROL ANALYSES OF MITOCHONDRIAL DNA IN ACCELEROMETRY-DERIVED SLEEP MEASURES IN DEPRESSED UK BIOBANK SUBJECTS",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:xtRiw3GOFMkC",
+      "citation_id": "L75YFRkAAAAJ:xtRiw3GOFMkC",
+      "authors": "LM Beaupre, M Wainberg, CC Zai, M Milic, D Felsky, GM Brown, ...",
+      "publication": "European Neuropsychopharmacology 63, e121-e122, 2022",
       "cited_by": {
         "value": null,
         "link": "https://scholar.google.com"
@@ -74,11 +176,11 @@
       "year": "2022"
     },
     {
-      "title": "Multi-omics integration via similarity network fusion to detect subtypes of aging",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:abG-DnoFyZgC",
-      "citation_id": "L75YFRkAAAAJ:abG-DnoFyZgC",
-      "authors": "M Yang, SA Matan-Lithwick, Y Wang, PL De Jager, DA Bennett, D Felsky",
-      "publication": "Alzheimer's Association International Conference, 2022",
+      "title": "GENOME-WIDE ANALYSIS OF THE CORRELATION BETWEEN ANTIDEPRESSANT RESPONSE AND COGNITIVE DOMAINS IN LATE-LIFE DEPRESSION",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:NhqRSupF_l8C",
+      "citation_id": "L75YFRkAAAAJ:NhqRSupF_l8C",
+      "authors": "S Elsheikh, V Marshe, M Maciukiewicz, X Men, F Islam, V Gonçalves, ...",
+      "publication": "European Neuropsychopharmacology 63, e261-e262, 2022",
       "cited_by": {
         "value": null,
         "link": "https://scholar.google.com"
@@ -86,11 +188,51 @@
       "year": "2022"
     },
     {
-      "title": "A transcriptomic signature of late-life depression",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:EUQCXRtRnyEC",
-      "citation_id": "L75YFRkAAAAJ:EUQCXRtRnyEC",
-      "authors": "SA Matan-Lithwick, DA Bennett, Y Wang, S Tripathy, D Felsky",
-      "publication": "Alzheimer's Association International Conference, 2022",
+      "title": "Integration of GWAS and brain transcriptomic analyses in a multiethnic sample of 35,245 older adults identifies DCDC2 gene as predictor of episodic memory …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:fPk4N6BV_jEC",
+      "citation_id": "L75YFRkAAAAJ:fPk4N6BV_jEC",
+      "authors": "Y Gao, D Felsky, D Reyes‐Dumeyer, S Sariya, MA Rentería, Y Ma, ...",
+      "publication": "Alzheimer's & Dementia 18 (10), 1797-1811, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3079821430365991473",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3079821430365991473&engine=google_scholar&hl=en",
+        "cites_id": "3079821430365991473"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Association of Whole-Person Eigen-Polygenic Risk Scores with Alzheimer's Disease",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:b0M2c_1WBrUC",
+      "citation_id": "L75YFRkAAAAJ:b0M2c_1WBrUC",
+      "authors": "A Kharaghani, E Tio, M Milic, DA Bennett, PL De Jager, JA Schneider, ...",
+      "publication": "bioRxiv, 2022.09. 13.507735, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Investigating microglia-neuron crosstalk by characterizing microglial contamination in human and mouse Patch-seq datasets",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:_xSYboBqXhAC",
+      "citation_id": "L75YFRkAAAAJ:_xSYboBqXhAC",
+      "authors": "K Arbabi, Y Jiang, D Howard, A Nigam, W Inoue, G Gonzalez-Burgos, ...",
+      "publication": "bioRxiv, 2022.09. 07.507009, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2524039084605873419",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2524039084605873419&engine=google_scholar&hl=en",
+        "cites_id": "2524039084605873419"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Cell type-and state-resolved immune transcriptomic profiling identifies glucocorticoid-responsive molecular defects in multiple sclerosis T cells",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:pyW8ca7W8N0C",
+      "citation_id": "L75YFRkAAAAJ:pyW8ca7W8N0C",
+      "authors": "T Roostaei, A Sabrin, P Kivisäkk, C McCabe, P Nejad, D Felsky, H Touil, ...",
+      "publication": "bioRxiv, 2022.06. 29.498195, 2022",
       "cited_by": {
         "value": null,
         "link": "https://scholar.google.com"
@@ -104,7 +246,7 @@
       "authors": "E Hallacli, C Kayatekin, S Nazeen, XH Wang, Z Sheinkopf, ...",
       "publication": "Cell 185 (12), 2035-2056. e33, 2022",
       "cited_by": {
-        "value": 6,
+        "value": 21,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2072718072224041759",
         "serpapi_link": "https://serpapi.com/search.json?cites=2072718072224041759&engine=google_scholar&hl=en",
         "cites_id": "2072718072224041759"
@@ -118,10 +260,33 @@
       "authors": "P Zhukovsky, M Wainberg, M Milic, SJ Tripathy, BH Mulsant, D Felsky, ...",
       "publication": "Proceedings of the National Academy of Sciences 119 (23), e2204433119, 2022",
       "cited_by": {
-        "value": 1,
+        "value": 4,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3095043614967611140",
         "serpapi_link": "https://serpapi.com/search.json?cites=3095043614967611140&engine=google_scholar&hl=en",
         "cites_id": "3095043614967611140"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "CHRNA5 links chandelier cells to protection against amyloid pathology in human aging and Alzheimer’s Disease",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:bFI3QPDXJZMC",
+      "citation_id": "L75YFRkAAAAJ:bFI3QPDXJZMC",
+      "authors": "J Rybnicek, Y Chen, M Millic, JA McLaurin, PL De Jager, JA Schneider, ...",
+      "publication": "bioRxiv, 2022.05. 03.490491, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Common genetic variants in CHRNA5 alter β-amyloid neuropathology and highlight chandelier cells in human aging and Alzheimer’s disease",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:a0OBvERweLwC",
+      "citation_id": "L75YFRkAAAAJ:a0OBvERweLwC",
+      "authors": "J Rybnicek",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
       },
       "year": "2022"
     },
@@ -143,17 +308,19 @@
       "citation_id": "L75YFRkAAAAJ:dfsIfKJdRG4C",
       "authors": "D Felsky, HU Klein, V Menon, Y Ma, Y Wang, M Milic, P Zhukovsky, ...",
       "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4683293325172155233",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4683293325172155233&engine=google_scholar&hl=en",
+        "cites_id": "4683293325172155233"
       },
       "year": "2022"
     },
     {
-      "title": "Association of Whole-Person Eigen-Polygenic Risk Scores with Alzheimer's Disease",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:b0M2c_1WBrUC",
-      "citation_id": "L75YFRkAAAAJ:b0M2c_1WBrUC",
-      "authors": "A Kharaghani, E Tio, M Milic, DA Bennett, PL De Jager, JA Schneider, ...",
-      "publication": "bioRxiv, 2022",
+      "title": "The interaction of polygenic risk for depression and age on white blood cell count",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:nb7KW1ujOQ8C",
+      "citation_id": "L75YFRkAAAAJ:nb7KW1ujOQ8C",
+      "authors": "ES Tio, D Felsky",
+      "publication": "medRxiv, 2022.11. 20.22282570, 2022",
       "cited_by": {
         "value": null,
         "link": "https://scholar.google.com"
@@ -161,11 +328,11 @@
       "year": "2022"
     },
     {
-      "title": "Investigating microglia-neuron crosstalk by characterizing microglial contamination in human and mouse Patch-seq datasets",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:_xSYboBqXhAC",
-      "citation_id": "L75YFRkAAAAJ:_xSYboBqXhAC",
-      "authors": "K Arbabi, Y Jiang, D Howard, W Inoue, G Gonzalez-Burgos, D Felsky, ...",
-      "publication": "bioRxiv, 2022",
+      "title": "Multi-'Omic Integration via Similarity Network Fusion to Detect Molecular Subtypes of Aging",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:P5F9QuxV20EC",
+      "citation_id": "L75YFRkAAAAJ:P5F9QuxV20EC",
+      "authors": "M Yang, S Matan-Lithwick, Y Wang, P De Jager, DA Bennett, D Felsky",
+      "publication": "bioRxiv, 2022.11. 16.516806, 2022",
       "cited_by": {
         "value": null,
         "link": "https://scholar.google.com"
@@ -173,61 +340,27 @@
       "year": "2022"
     },
     {
-      "title": "Cell type-and state-resolved immune transcriptomic profiling identifies glucocorticoid-responsive molecular defects in multiple sclerosis T cells",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:pyW8ca7W8N0C",
-      "citation_id": "L75YFRkAAAAJ:pyW8ca7W8N0C",
-      "authors": "T Roostaei, A Sabrin, P Kivisakk, C McCabe, P Nejad, D Felsky, H Touil, ...",
-      "publication": "bioRxiv, 2022",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2022"
-    },
-    {
-      "title": "Common genetic variants in CHRNA5 alter β-amyloid neuropathology and highlight chandelier cells in human aging and Alzheimer's disease",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:a0OBvERweLwC",
-      "citation_id": "L75YFRkAAAAJ:a0OBvERweLwC",
-      "authors": "J Rybnicek, Y Chen, M Milic, JA McLaurin, P De Jager, JA Schneider, ...",
-      "publication": "bioRxiv, 2022",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2022"
-    },
-    {
-      "title": "Bulk and Single-nucleus Transcriptomics Highlight Intra-telencephalic and Somatostatin Neurons in Alzheimer's Disease",
+      "title": "Bulk and Single-nucleus Transcriptomics Highlight Intra-telencephalic and Somatostatin Neurons in Alzheimer’s Disease",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:cFHS6HbyZ2cC",
       "citation_id": "L75YFRkAAAAJ:cFHS6HbyZ2cC",
       "authors": "ME Consens, Y Chen, V Menon, Y Wang, JA Schneider, PL De Jager, ...",
-      "publication": "bioRxiv, 2022",
+      "publication": "Frontiers in Molecular Neuroscience 15, 2022",
       "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9347478593926741421",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9347478593926741421&engine=google_scholar&hl=en",
+        "cites_id": "9347478593926741421"
       },
       "year": "2022"
-    },
-    {
-      "title": "Integration of GWAS and brain transcriptomic analyses in a multiethnic sample of 35,245 older adults identifies DCDC2 gene as predictor of episodic memory …",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:fPk4N6BV_jEC",
-      "citation_id": "L75YFRkAAAAJ:fPk4N6BV_jEC",
-      "authors": "Y Gao, D Felsky, D Reyes‐Dumeyer, S Sariya, MA Rentería, Y Ma, ...",
-      "publication": "Alzheimer's & Dementia, 2021",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2021"
     },
     {
       "title": "Proximal and distal effects of genetic susceptibility to multiple sclerosis on the T cell epigenome",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:4OULZ7Gr8RgC",
       "citation_id": "L75YFRkAAAAJ:4OULZ7Gr8RgC",
       "authors": "T Roostaei, HU Klein, Y Ma, D Felsky, P Kivisäkk, SM Connor, ...",
-      "publication": "Nature Communications 12 (1), 1-12, 2021",
+      "publication": "Nature communications 12 (1), 7078, 2021",
       "cited_by": {
-        "value": 12,
+        "value": 13,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17385295535882342256",
         "serpapi_link": "https://serpapi.com/search.json?cites=17385295535882342256&engine=google_scholar&hl=en",
         "cites_id": "17385295535882342256"
@@ -239,9 +372,9 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:u_35RYKgDlwC",
       "citation_id": "L75YFRkAAAAJ:u_35RYKgDlwC",
       "authors": "Y Ma, EB Dammer, D Felsky, DM Duong, HU Klein, CC White, M Zhou, ...",
-      "publication": "Nature communications 12 (1), 1-16, 2021",
+      "publication": "Nature communications 12 (1), 7035, 2021",
       "cited_by": {
-        "value": 4,
+        "value": 8,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15223832140340687312",
         "serpapi_link": "https://serpapi.com/search.json?cites=15223832140340687312&engine=google_scholar&hl=en",
         "cites_id": "15223832140340687312"
@@ -277,7 +410,7 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:rO6llkc54NcC",
       "citation_id": "L75YFRkAAAAJ:rO6llkc54NcC",
       "authors": "K Hueniken, NH Somé, M Abdelhack, G Taylor, TE Marshall, CM Wickens, ...",
-      "publication": "JMIR mental health 8 (11), e32876, 2021",
+      "publication": "JMIR Mental Health 8 (11), e32876, 2021",
       "cited_by": {
         "value": 7,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11897620579681728744",
@@ -290,10 +423,10 @@
       "title": "Stem cell-derived neurons reflect features of protein networks, neuropathology, and cognitive outcome of their aged human donors",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:HoB7MX3m0LUC",
       "citation_id": "L75YFRkAAAAJ:HoB7MX3m0LUC",
-      "authors": "VN Lagomarsino, RV Pearse II, L Liu, YC Hsieh, MA Fernandez, ...",
+      "authors": "VN Lagomarsino, RV Pearse, L Liu, YC Hsieh, MA Fernandez, EA Vinton, ...",
       "publication": "Neuron 109 (21), 3402-3420. e9, 2021",
       "cited_by": {
-        "value": 20,
+        "value": 34,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3288607212123765514",
         "serpapi_link": "https://serpapi.com/search.json?cites=3288607212123765514&engine=google_scholar&hl=en",
         "cites_id": "3288607212123765514"
@@ -305,9 +438,9 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:ZHo1McVdvXMC",
       "citation_id": "L75YFRkAAAAJ:ZHo1McVdvXMC",
       "authors": "M Wainberg, SE Jones, LM Beaupre, SL Hill, D Felsky, MA Rivas, ...",
-      "publication": "PLoS medicine 18 (10), e1003782, 2021",
+      "publication": "PLoS Medicine 18 (10), e1003782, 2021",
       "cited_by": {
-        "value": 10,
+        "value": 19,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10750740942667905588",
         "serpapi_link": "https://serpapi.com/search.json?cites=10750740942667905588&engine=google_scholar&hl=en",
         "cites_id": "10750740942667905588"
@@ -321,10 +454,22 @@
       "authors": "S Sariya, D Felsky, D Reyes‐Dumeyer, R Lali, RA Lantigua, B Vardarajan, ...",
       "publication": "Annals of neurology 90 (3), 366-376, 2021",
       "cited_by": {
-        "value": 4,
+        "value": 8,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5922830574777932888",
         "serpapi_link": "https://serpapi.com/search.json?cites=5922830574777932888&engine=google_scholar&hl=en",
         "cites_id": "5922830574777932888"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "A Modulation Layer to Increase Neural Network Robustness Against Data Quality Issues",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:dshw04ExmUIC",
+      "citation_id": "L75YFRkAAAAJ:dshw04ExmUIC",
+      "authors": "M Abdelhack, J Zhang, S Tripathi, BA Fritz, D Felsky, MS Avidan, Y Chen, ...",
+      "publication": "arXiv preprint arXiv:2107.08574, 2021",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
       },
       "year": "2021"
     },
@@ -333,26 +478,12 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:ldfaerwXgEUC",
       "citation_id": "L75YFRkAAAAJ:ldfaerwXgEUC",
       "authors": "M Wainberg, S Kloiber, B Diniz, RS McIntyre, D Felsky, SJ Tripathy",
-      "publication": "Translational Psychiatry 11 (1), 1-9, 2021",
+      "publication": "Translational Psychiatry 11 (1), 380, 2021",
       "cited_by": {
-        "value": 2,
+        "value": 4,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10026068689059190860",
         "serpapi_link": "https://serpapi.com/search.json?cites=10026068689059190860&engine=google_scholar&hl=en",
         "cites_id": "10026068689059190860"
-      },
-      "year": "2021"
-    },
-    {
-      "title": "Symptom dimensions of major depression in a large community-based cohort",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:vV6vV6tmYwMC",
-      "citation_id": "L75YFRkAAAAJ:vV6vV6tmYwMC",
-      "authors": "M Wainberg, P Zhukovsky, SL Hill, D Felsky, A Voineskos, S Kennedy, ...",
-      "publication": "Psychological Medicine, 1-8, 2021",
-      "cited_by": {
-        "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1669464286938201081",
-        "serpapi_link": "https://serpapi.com/search.json?cites=1669464286938201081&engine=google_scholar&hl=en",
-        "cites_id": "1669464286938201081"
       },
       "year": "2021"
     },
@@ -361,9 +492,9 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:lSLTfruPkqcC",
       "citation_id": "L75YFRkAAAAJ:lSLTfruPkqcC",
       "authors": "E Patrick, M Olah, M Taga, HU Klein, J Xu, CC White, D Felsky, S Agrawal, ...",
-      "publication": "Translational psychiatry 11 (1), 1-17, 2021",
+      "publication": "Translational psychiatry 11 (1), 50, 2021",
       "cited_by": {
-        "value": 13,
+        "value": 15,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7491253530719346036",
         "serpapi_link": "https://serpapi.com/search.json?cites=7491253530719346036&engine=google_scholar&hl=en",
         "cites_id": "7491253530719346036"
@@ -371,13 +502,13 @@
       "year": "2021"
     },
     {
-      "title": "Donor-Specific Transcriptomic Analysis of Alzheimer's Disease-Associated Hypometabolism Highlights a Unique Donor, Ribosomal Proteins and Microglia",
+      "title": "Donor-Specific transcriptomic analysis of Alzheimer's Disease-Associated hypometabolism highlights a unique donor, ribosomal proteins and microglia",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:GnPB-g6toBAC",
       "citation_id": "L75YFRkAAAAJ:GnPB-g6toBAC",
       "authors": "S Patel, D Howard, A Man, D Schwartz, J Jee, D Felsky, Z Pausova, ...",
       "publication": "Eneuro 7 (6), 2020",
       "cited_by": {
-        "value": 5,
+        "value": 6,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15553706538471525867",
         "serpapi_link": "https://serpapi.com/search.json?cites=15553706538471525867&engine=google_scholar&hl=en",
         "cites_id": "15553706538471525867"
@@ -391,7 +522,7 @@
       "authors": "HS Yang, CC White, HU Klein, L Yu, C Gaiteri, Y Ma, D Felsky, ...",
       "publication": "Neuron 107 (3), 496-508. e6, 2020",
       "cited_by": {
-        "value": 17,
+        "value": 21,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15715196605530975413",
         "serpapi_link": "https://serpapi.com/search.json?cites=15715196605530975413&engine=google_scholar&hl=en",
         "cites_id": "15715196605530975413"
@@ -405,10 +536,36 @@
       "authors": "M Tang, ME Alaniz, D Felsky, B Vardarajan, D Reyes-Dumeyer, ...",
       "publication": "Neurology Genetics 6 (4), 2020",
       "cited_by": {
-        "value": 4,
+        "value": 8,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13211894131069348774",
         "serpapi_link": "https://serpapi.com/search.json?cites=13211894131069348774&engine=google_scholar&hl=en",
         "cites_id": "13211894131069348774"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Impact of genetic susceptibility to multiple sclerosis on the T cell epigenome: proximal and distal effects",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:J_g5lzvAfSwC",
+      "citation_id": "L75YFRkAAAAJ:J_g5lzvAfSwC",
+      "authors": "T Roostaei, HU Klein, D Felsky, P Kivisäkk, SM Connor, A Kroshilina, ...",
+      "publication": "bioRxiv, 2020.07. 11.198721, 2020",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "The Caribbean-Hispanic Alzheimer’s brain transcriptome reveals ancestry-specific disease mechanisms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:ns9cj8rnVeAC",
+      "citation_id": "L75YFRkAAAAJ:ns9cj8rnVeAC",
+      "authors": "D Felsky, S Sariya, I Santa-Maria, L French, JA Schneider, DA Bennett, ...",
+      "publication": "Biorxiv, 2020.05. 28.122234, 2020",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9805716776473110641",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9805716776473110641&engine=google_scholar&hl=en",
+        "cites_id": "9805716776473110641"
       },
       "year": "2020"
     },
@@ -421,32 +578,6 @@
       "cited_by": {
         "value": null,
         "link": "https://scholar.google.com"
-      },
-      "year": "2020"
-    },
-    {
-      "title": "Impact of genetic susceptibility to multiple sclerosis on the T cell epigenome: proximal and distal effects",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:J_g5lzvAfSwC",
-      "citation_id": "L75YFRkAAAAJ:J_g5lzvAfSwC",
-      "authors": "T Roostaei, HU Klein, D Felsky, P Kivisäkk, SM Connor, A Kroshilina, ...",
-      "publication": "bioRxiv, 2020",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2020"
-    },
-    {
-      "title": "The Caribbean-Hispanic Alzheimer’s brain transcriptome reveals ancestry-specific disease mechanisms",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:ns9cj8rnVeAC",
-      "citation_id": "L75YFRkAAAAJ:ns9cj8rnVeAC",
-      "authors": "D Felsky, S Sariya, I Santa-Maria, L French, JA Schneider, DA Bennett, ...",
-      "publication": "bioRxiv, 2020",
-      "cited_by": {
-        "value": 7,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9805716776473110641",
-        "serpapi_link": "https://serpapi.com/search.json?cites=9805716776473110641&engine=google_scholar&hl=en",
-        "cites_id": "9805716776473110641"
       },
       "year": "2020"
     },
@@ -495,9 +626,9 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:bEWYMUwI8FkC",
       "citation_id": "L75YFRkAAAAJ:bEWYMUwI8FkC",
       "authors": "S Stojanovski, D Felsky, JD Viviano, S Shahab, R Bangali, CL Burton, ...",
-      "publication": "Biological psychiatry 85 (5), 408-416, 2019",
+      "publication": "Biological Psychiatry 85 (5), 408-416, 2019",
       "cited_by": {
-        "value": 24,
+        "value": 28,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4058108943844318858",
         "serpapi_link": "https://serpapi.com/search.json?cites=4058108943844318858&engine=google_scholar&hl=en",
         "cites_id": "4058108943844318858"
@@ -509,9 +640,9 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:r0BpntZqJG4C",
       "citation_id": "L75YFRkAAAAJ:r0BpntZqJG4C",
       "authors": "D Felsky, T Roostaei, K Nho, SL Risacher, EM Bradshaw, V Petyuk, ...",
-      "publication": "Nature communications 10 (1), 1-12, 2019",
+      "publication": "Nature communications 10 (1), 409, 2019",
       "cited_by": {
-        "value": 99,
+        "value": 111,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14119476732181727289",
         "serpapi_link": "https://serpapi.com/search.json?cites=14119476732181727289&engine=google_scholar&hl=en",
         "cites_id": "14119476732181727289"
@@ -523,9 +654,9 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:TFP_iSt0sucC",
       "citation_id": "L75YFRkAAAAJ:TFP_iSt0sucC",
       "authors": "D Felsky, E Patrick, JA Schneider, S Mostafavi, C Gaiteri, N Patsopoulos, ...",
-      "publication": "Molecular neurodegeneration 13 (1), 1-10, 2018",
+      "publication": "Molecular neurodegeneration 13, 1-10, 2018",
       "cited_by": {
-        "value": 29,
+        "value": 30,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17697785872975065605",
         "serpapi_link": "https://serpapi.com/search.json?cites=17697785872975065605&engine=google_scholar&hl=en",
         "cites_id": "17697785872975065605"
@@ -563,7 +694,7 @@
       "authors": "PL De Jager, Y Ma, C McCabe, J Xu, BN Vardarajan, D Felsky, HU Klein, ...",
       "publication": "Scientific data 5 (1), 1-13, 2018",
       "cited_by": {
-        "value": 227,
+        "value": 264,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7621060616917390782",
         "serpapi_link": "https://serpapi.com/search.json?cites=7621060616917390782&engine=google_scholar&hl=en",
         "cites_id": "7621060616917390782"
@@ -627,7 +758,7 @@
       "authors": "AL Wheeler, D Felsky, JD Viviano, S Stojanovski, SH Ameis, P Szatmari, ...",
       "publication": "Cerebral Cortex 28 (5), 1760-1770, 2018",
       "cited_by": {
-        "value": 20,
+        "value": 23,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1678806272045890732",
         "serpapi_link": "https://serpapi.com/search.json?cites=1678806272045890732&engine=google_scholar&hl=en",
         "cites_id": "1678806272045890732"
@@ -653,12 +784,26 @@
       "authors": "T Roostaei, D Felsky, A Nazeri, PL De Jager, JA Schneider, DA Bennett, ...",
       "publication": "Neurobiology of aging 62, 243. e7-243. e14, 2018",
       "cited_by": {
-        "value": 19,
+        "value": 22,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1262933760479392359",
         "serpapi_link": "https://serpapi.com/search.json?cites=1262933760479392359&engine=google_scholar&hl=en",
         "cites_id": "1262933760479392359"
       },
       "year": "2018"
+    },
+    {
+      "title": "A cortical immune network map identifies a subset of human microglia involved in Tau pathology",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:TQgYirikUcIC",
+      "citation_id": "L75YFRkAAAAJ:TQgYirikUcIC",
+      "authors": "E Patrick, M Olah, M Taga, HU Klein, J Xu, CC White, D Felsky, C Gaiteri, ...",
+      "publication": "BioRxiv, 234351, 2017",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11972275486463669286",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11972275486463669286&engine=google_scholar&hl=en",
+        "cites_id": "11972275486463669286"
+      },
+      "year": "2017"
     },
     {
       "title": "GENETIC INTERACTION REGULATES ISOFORM-SPECIFIC EXPRESSION OF AN ALZHEIMER'S DISEASE RISK GENE AND AFFECTS BRAIN STRUCTURAL CONNECTIVITY",
@@ -741,7 +886,7 @@
       "authors": "CC White, HS Yang, L Yu, LB Chibnik, RJ Dawe, J Yang, HU Klein, ...",
       "publication": "PLoS medicine 14 (4), e1002287, 2017",
       "cited_by": {
-        "value": 68,
+        "value": 75,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=34545347229925986",
         "serpapi_link": "https://serpapi.com/search.json?cites=34545347229925986&engine=google_scholar&hl=en",
         "cites_id": "34545347229925986"
@@ -755,24 +900,10 @@
       "authors": "T Roostaei, A Nazeri, D Felsky, PL De Jager, JA Schneider, BG Pollock, ...",
       "publication": "Molecular psychiatry 22 (2), 287-295, 2017",
       "cited_by": {
-        "value": 56,
+        "value": 65,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3816019963902674185",
         "serpapi_link": "https://serpapi.com/search.json?cites=3816019963902674185&engine=google_scholar&hl=en",
         "cites_id": "3816019963902674185"
-      },
-      "year": "2017"
-    },
-    {
-      "title": "A cortical immune network map identifies a subset of human microglia involved in Tau pathology",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:TQgYirikUcIC",
-      "citation_id": "L75YFRkAAAAJ:TQgYirikUcIC",
-      "authors": "E Patrick, M Olah, M Taga, HU Klein, J Xu, CC White, D Felsky, C Gaiteri, ...",
-      "publication": "BioRxiv, 234351, 2017",
-      "cited_by": {
-        "value": 11,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11972275486463669286",
-        "serpapi_link": "https://serpapi.com/search.json?cites=11972275486463669286&engine=google_scholar&hl=en",
-        "cites_id": "11972275486463669286"
       },
       "year": "2017"
     },
@@ -833,7 +964,7 @@
       "authors": "AN Voineskos, D Felsky, AL Wheeler, DJ Rotenberg, M Levesque, S Patel, ...",
       "publication": "Schizophrenia bulletin 42 (4), 1027-1036, 2016",
       "cited_by": {
-        "value": 16,
+        "value": 19,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6320696809788924436",
         "serpapi_link": "https://serpapi.com/search.json?cites=6320696809788924436&engine=google_scholar&hl=en",
         "cites_id": "6320696809788924436"
@@ -857,9 +988,9 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:4TOpqqG69KYC",
       "citation_id": "L75YFRkAAAAJ:4TOpqqG69KYC",
       "authors": "E Huang, CC Zai, A Lisoway, M Maciukiewicz, D Felsky, AK Tiwari, ...",
-      "publication": "International journal of neuropsychopharmacology 19 (5), 2016",
+      "publication": "International Journal of Neuropsychopharmacology 19 (5), 2016",
       "cited_by": {
-        "value": 51,
+        "value": 55,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3154283999785352077",
         "serpapi_link": "https://serpapi.com/search.json?cites=3154283999785352077&engine=google_scholar&hl=en",
         "cites_id": "3154283999785352077"
@@ -949,7 +1080,7 @@
       "authors": "AN Voineskos, JL Winterburn, D Felsky, J Pipitone, TK Rajji, BH Mulsant, ...",
       "publication": "Human brain mapping 36 (8), 3020-3037, 2015",
       "cited_by": {
-        "value": 94,
+        "value": 95,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2118664907988743585",
         "serpapi_link": "https://serpapi.com/search.json?cites=2118664907988743585&engine=google_scholar&hl=en",
         "cites_id": "2118664907988743585"
@@ -963,7 +1094,7 @@
       "authors": "A Nazeri, MM Chakravarty, TK Rajji, D Felsky, DJ Rotenberg, M Mason, ...",
       "publication": "Neurobiology of aging 36 (6), 2094-2106, 2015",
       "cited_by": {
-        "value": 61,
+        "value": 65,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11536052650637111402",
         "serpapi_link": "https://serpapi.com/search.json?cites=11536052650637111402&engine=google_scholar&hl=en",
         "cites_id": "11536052650637111402"
@@ -1103,7 +1234,7 @@
       "authors": "A Nazeri, MM Chakravarty, D Felsky, NJ Lobaugh, TK Rajji, BH Mulsant, ...",
       "publication": "Neuropsychopharmacology 38 (10), 1954-1962, 2013",
       "cited_by": {
-        "value": 107,
+        "value": 110,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9291047699771724990",
         "serpapi_link": "https://serpapi.com/search.json?cites=9291047699771724990&engine=google_scholar&hl=en",
         "cites_id": "9291047699771724990"
@@ -1117,7 +1248,7 @@
       "authors": "AN Voineskos, D Felsky, N Kovacevic, AK Tiwari, C Zai, MM Chakravarty, ...",
       "publication": "Cerebral cortex 23 (9), 2044-2057, 2013",
       "cited_by": {
-        "value": 75,
+        "value": 77,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8741507506289377984",
         "serpapi_link": "https://serpapi.com/search.json?cites=8741507506289377984&engine=google_scholar&hl=en",
         "cites_id": "8741507506289377984"
@@ -1139,7 +1270,7 @@
       "year": "2013"
     },
     {
-      "title": "O4–01–02: Effects of the SORL1 Alzheimer's disease risk gene across the human lifespan",
+      "title": "O4-01-02 EFFECTS OF THE SORL1 ALZHEIMER’S DISEASE RISK GENE ACROSS THE HUMAN LIFESPAN",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:_FxGoFyzp5QC",
       "citation_id": "L75YFRkAAAAJ:_FxGoFyzp5QC",
       "authors": "D Felsky, P Szeszko, L Yu, WG Honer, P De, JS Jager, A Malhotra, T Ikuta, ...",
@@ -1171,7 +1302,7 @@
       "authors": "AN Voineskos, G Foussias, J Lerch, D Felsky, G Remington, TK Rajji, ...",
       "publication": "JAMA psychiatry 70 (5), 472-480, 2013",
       "cited_by": {
-        "value": 156,
+        "value": 160,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3741402937797388273",
         "serpapi_link": "https://serpapi.com/search.json?cites=3741402937797388273&engine=google_scholar&hl=en",
         "cites_id": "3741402937797388273"
@@ -1185,7 +1316,7 @@
       "authors": "TA Lett, MM Chakavarty, D Felsky, EJ Brandl, AK Tiwari, VF Gonçalves, ...",
       "publication": "Molecular psychiatry 18 (4), 443-450, 2013",
       "cited_by": {
-        "value": 141,
+        "value": 143,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17300185892802974712",
         "serpapi_link": "https://serpapi.com/search.json?cites=17300185892802974712&engine=google_scholar&hl=en",
         "cites_id": "17300185892802974712"
@@ -1213,204 +1344,93 @@
       "authors": "D Felsky, AN Voineskos, JP Lerch, A Nazeri, SA Shaikh, TK Rajji, ...",
       "publication": "Frontiers in psychiatry 3, 40, 2012",
       "cited_by": {
-        "value": 31,
+        "value": 32,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18298243673251876621",
         "serpapi_link": "https://serpapi.com/search.json?cites=18298243673251876621&engine=google_scholar&hl=en",
         "cites_id": "18298243673251876621"
       },
       "year": "2012"
-    },
-    {
-      "title": "Dopamine D4 and D5 receptor gene variant effects on clozapine response in schizophrenia: replication and exploration",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:9yKSN-GCB0IC",
-      "citation_id": "L75YFRkAAAAJ:9yKSN-GCB0IC",
-      "authors": "R Hwang, AK Tiwari, CC Zai, D Felsky, E Remington, T Wallace, RP Tong, ...",
-      "publication": "Progress in Neuro-Psychopharmacology and Biological Psychiatry 37 (1), 62-75, 2012",
-      "cited_by": {
-        "value": 36,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5659053564493008679",
-        "serpapi_link": "https://serpapi.com/search.json?cites=5659053564493008679&engine=google_scholar&hl=en",
-        "cites_id": "5659053564493008679"
-      },
-      "year": "2012"
-    },
-    {
-      "title": "SORL1 and White Matter Tract Integrity: Predicting Risk for Late-Onset Alzheimer's Disease",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:W7OEmFMy1HYC",
-      "citation_id": "L75YFRkAAAAJ:W7OEmFMy1HYC",
-      "authors": "D Felsky, J Lerch, MM Chakravarty, J Pipitone, TK Rajji, NJ Lobaugh, ...",
-      "publication": "BIOLOGICAL PSYCHIATRY 71 (8), 150S-150S, 2012",
-      "cited_by": {
-        "value": 1,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9495127318245399526",
-        "serpapi_link": "https://serpapi.com/search.json?cites=9495127318245399526&engine=google_scholar&hl=en",
-        "cites_id": "9495127318245399526"
-      },
-      "year": "2012"
-    },
-    {
-      "title": "The Schizophrenia Risk Gene GAD1 (GAD67) Promoter Variants and Fronto-Limbic System Disconnectivity",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:Tyk-4Ss8FVUC",
-      "citation_id": "L75YFRkAAAAJ:Tyk-4Ss8FVUC",
-      "authors": "TA Lett, MM Chakravarty, JP Lerch, D Felsky, J Pipitone, J Daskalakis, ...",
-      "publication": "BIOLOGICAL PSYCHIATRY 71 (8), 153S-153S, 2012",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2012"
-    },
-    {
-      "title": "The ZNF804A gene: characterization of a novel neural risk mechanism for the major psychoses",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:u-x6o8ySG0sC",
-      "citation_id": "L75YFRkAAAAJ:u-x6o8ySG0sC",
-      "authors": "AN Voineskos, JP Lerch, D Felsky, A Tiwari, TK Rajji, D Miranda, ...",
-      "publication": "Neuropsychopharmacology 36 (9), 1871-1878, 2011",
-      "cited_by": {
-        "value": 69,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6390995670309128604",
-        "serpapi_link": "https://serpapi.com/search.json?cites=6390995670309128604&engine=google_scholar&hl=en",
-        "cites_id": "6390995670309128604"
-      },
-      "year": "2011"
-    },
-    {
-      "title": "NEURAL CORRELATES OF A GENOME-WIDE SIGNIFICANT RISK VARIANT FOR SCHIZOPHRENIA AND BIPOLAR DISORDER",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:YsMSGLbcyi4C",
-      "citation_id": "L75YFRkAAAAJ:YsMSGLbcyi4C",
-      "authors": "A Voineskos, J Lerch, D Felsky, N Lobaugh, D Miranda, B Mulsant, ...",
-      "publication": "SCHIZOPHRENIA BULLETIN 37, 181-181, 2011",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2011"
-    },
-    {
-      "title": "GENETIC MECHANISMS OF DISRUPTED WHITE MATTER CONNECTIVITY IN SCHIZOPHRENIA",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:Y0pCki6q_DkC",
-      "citation_id": "L75YFRkAAAAJ:Y0pCki6q_DkC",
-      "authors": "A Voineskos, D Felsky, A Tiwari, N Lobaugh, B Mulsant, M Shenton, ...",
-      "publication": "SCHIZOPHRENIA BULLETIN 37, 181-181, 2011",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2011"
-    },
-    {
-      "title": "The brain-derived neurotrophic factor Val66Met polymorphism and prediction of neural risk for Alzheimer disease",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:u5HHmVD_uO8C",
-      "citation_id": "L75YFRkAAAAJ:u5HHmVD_uO8C",
-      "authors": "AN Voineskos, JP Lerch, D Felsky, S Shaikh, TK Rajji, D Miranda, ...",
-      "publication": "Archives of general psychiatry 68 (2), 198-206, 2011",
-      "cited_by": {
-        "value": 147,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3531831379103506886",
-        "serpapi_link": "https://serpapi.com/search.json?cites=3531831379103506886&engine=google_scholar&hl=en",
-        "cites_id": "3531831379103506886"
-      },
-      "year": "2011"
-    },
-    {
-      "title": "Myelin Associated Glycoprotein Gene Influences White Matter Phenotypes in Schizophrenia",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:eQOLeE2rZwMC",
-      "citation_id": "L75YFRkAAAAJ:eQOLeE2rZwMC",
-      "authors": "A Voineskos, D Felsky, J Lerch, B Pollock, M Shenton, J Kennedy",
-      "publication": "BIOLOGICAL PSYCHIATRY 67 (9), 165S-165S, 2010",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2010"
-    },
-    {
-      "title": "Transcriptomic Analysis of Alzheimer’s Disease Associated Brain Hypometabolism",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L75YFRkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=L75YFRkAAAAJ:NaGl4SEjCO4C",
-      "citation_id": "L75YFRkAAAAJ:NaGl4SEjCO4C",
-      "authors": "S Patel, D Howard, A Man, D Schwartz, J Jee, D Felsky, Z Pausova, ...",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": ""
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 1897,
-          "since_2017": 1401
+          "all": 2084,
+          "since_2018": 1443
         }
       },
       {
         "h_index": {
-          "all": 21,
-          "since_2017": 19
+          "all": 22,
+          "since_2018": 20
         }
       },
       {
         "i10_index": {
-          "all": 33,
-          "since_2017": 31
+          "all": 35,
+          "since_2018": 32
         }
       }
     ],
     "graph": [
       {
         "year": 2011,
-        "citations": 6
+        "citations": 7
       },
       {
         "year": 2012,
-        "citations": 25
+        "citations": 24
       },
       {
         "year": 2013,
-        "citations": 59
+        "citations": 58
       },
       {
         "year": 2014,
-        "citations": 107
+        "citations": 108
       },
       {
         "year": 2015,
-        "citations": 153
+        "citations": 158
       },
       {
         "year": 2016,
-        "citations": 129
+        "citations": 128
       },
       {
         "year": 2017,
-        "citations": 139
+        "citations": 143
       },
       {
         "year": 2018,
-        "citations": 197
+        "citations": 194
       },
       {
         "year": 2019,
-        "citations": 200
+        "citations": 201
       },
       {
         "year": 2020,
-        "citations": 262
+        "citations": 267
       },
       {
         "year": 2021,
-        "citations": 304
+        "citations": 295
       },
       {
         "year": 2022,
-        "citations": 295
+        "citations": 419
+      },
+      {
+        "year": 2023,
+        "citations": 64
       }
     ]
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=L75YFRkAAAAJ",
-    "available": 42,
+    "available": 46,
     "not_available": 4
   },
   "co_authors": [
@@ -1496,15 +1516,6 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
-      "name": "Arun Kumar Tiwari",
-      "link": "https://scholar.google.com/citations?user=Ja575P0AAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=Ja575P0AAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
-      "author_id": "Ja575P0AAAAJ",
-      "affiliations": "Centre for Addiction and Mental Health, Toronto",
-      "email": "Verified email at camh.ca",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ja575P0AAAAJ&citpid=1"
-    },
-    {
       "name": "Tina Roostaei, MD, MPH",
       "link": "https://scholar.google.com/citations?user=4ktVqOcAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=4ktVqOcAAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
@@ -1514,13 +1525,13 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4ktVqOcAAAAJ&citpid=6"
     },
     {
-      "name": "Hans-Ulrich Klein",
-      "link": "https://scholar.google.com/citations?user=pWfVi5EAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=pWfVi5EAAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
-      "author_id": "pWfVi5EAAAAJ",
-      "affiliations": "Columbia University Medical Center",
-      "email": "Verified email at columbia.edu",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pWfVi5EAAAAJ&citpid=1"
+      "name": "Arun Kumar Tiwari",
+      "link": "https://scholar.google.com/citations?user=Ja575P0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Ja575P0AAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
+      "author_id": "Ja575P0AAAAJ",
+      "affiliations": "Centre for Addiction and Mental Health, Toronto",
+      "email": "Verified email at camh.ca",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ja575P0AAAAJ&citpid=1"
     },
     {
       "name": "Yiyi Ma",
@@ -1530,6 +1541,15 @@
       "affiliations": "Columbia Univesity",
       "email": "Verified email at cumc.columbia.edu",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yfhdJkcAAAAJ&citpid=2"
+    },
+    {
+      "name": "Hans-Ulrich Klein",
+      "link": "https://scholar.google.com/citations?user=pWfVi5EAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=pWfVi5EAAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
+      "author_id": "pWfVi5EAAAAJ",
+      "affiliations": "Columbia University Medical Center",
+      "email": "Verified email at columbia.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pWfVi5EAAAAJ&citpid=1"
     },
     {
       "name": "Sara Mostafavi",
@@ -1554,9 +1574,45 @@
       "link": "https://scholar.google.com/citations?user=-hWK6mIAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=-hWK6mIAAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
       "author_id": "-hWK6mIAAAAJ",
-      "affiliations": "University of Toronto",
+      "affiliations": "University of Toronto and Centre for Addiction and Mental Health",
       "email": "Verified email at camh.ca",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-hWK6mIAAAAJ&citpid=1"
+    },
+    {
+      "name": "Tristram Lett",
+      "link": "https://scholar.google.com/citations?user=X0NpSHsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=X0NpSHsAAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
+      "author_id": "X0NpSHsAAAAJ",
+      "affiliations": "Charité Campus Mitte",
+      "email": "Verified email at charite.de",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=X0NpSHsAAAAJ&citpid=2"
+    },
+    {
+      "name": "Chris Gaiteri",
+      "link": "https://scholar.google.com/citations?user=mxsVOIcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=mxsVOIcAAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
+      "author_id": "mxsVOIcAAAAJ",
+      "affiliations": "Rush University Medical Center",
+      "email": "Verified email at rush.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mxsVOIcAAAAJ&citpid=2"
+    },
+    {
+      "name": "Zafiris J. Daskalakis",
+      "link": "https://scholar.google.com/citations?user=HdPgDDYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=HdPgDDYAAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
+      "author_id": "HdPgDDYAAAAJ",
+      "affiliations": "Department of Psychiatry, UC San Diego",
+      "email": "Verified email at health.ucsd.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HdPgDDYAAAAJ&citpid=4"
+    },
+    {
+      "name": "Lori Chibnik",
+      "link": "https://scholar.google.com/citations?user=mvfpJrAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=mvfpJrAAAAAJ&engine=google_scholar_author&hl=en&num=200&sort=pubdate",
+      "author_id": "mvfpJrAAAAAJ",
+      "affiliations": "Assistant Professor, Harvard Medical School / Harvard T.H. Chan School of Public Health",
+      "email": "Verified email at rics.bwh.harvard.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mvfpJrAAAAAJ&citpid=2"
     }
   ]
 }
